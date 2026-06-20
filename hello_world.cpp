@@ -10,5 +10,6 @@ int main()
     {
         cout << "Hello, World!" << endl;
     }
+    cout<<"you are crazy coder man "<<endl;
     return 0;
 }
